@@ -1,4 +1,2 @@
 [template.environment]
-  FRONTEND_URL = $URL
-  DATABASE_URL = ""
-  SESSION_SECRET = "oh_please_please_change_me"
+  FRONTEND_URL = http://localhost:3000
